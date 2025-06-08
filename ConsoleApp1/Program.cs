@@ -3,6 +3,6 @@ Console.WriteLine("Hello, World!");
 Console.WriteLine("Hello, Mahesh!");
 Console.WriteLine("Hello, Sagar!");
 Console.WriteLine("Hello, Samir!");
-
+Console.WriteLine("Code for reset!");
 Console.ReadLine();
 

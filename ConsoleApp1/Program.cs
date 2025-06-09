@@ -6,7 +6,7 @@ Console.WriteLine("Hello, Samir!");
 Console.WriteLine("Cherry-Pick Check"); 
 Console.WriteLine("Cherry-Pick Check 2nd attempt");
 Console.WriteLine("1st Squash Commit");
-Console.WriteLine("2nd Squash Commit");
-Console.WriteLine("3nd Squash Commit");
+Console.WriteLine("2st Squash Commit");
+Console.WriteLine("3st Squash Commit");
 Console.ReadLine();
 

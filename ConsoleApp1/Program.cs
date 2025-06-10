@@ -9,5 +9,7 @@ Console.WriteLine("Change For Rebase");
 Console.WriteLine("Implementation of Rebase ");
 Console.WriteLine("Reset work");
 Console.WriteLine("Code For Rebase");
+Console.WriteLine("1st change for amend");
+Console.WriteLine("2st change for amend");
 Console.ReadLine();
 

@@ -7,6 +7,7 @@ Console.WriteLine("Cherry-Pick Check");
 Console.WriteLine("Cherry-Pick Check 2nd attempt");
 Console.WriteLine("Change For Rebase");
 Console.WriteLine("Implementation of Rebase ");
+Console.WriteLine("Reset work");
 Console.WriteLine("Code For Rebase");
 Console.ReadLine();
 
